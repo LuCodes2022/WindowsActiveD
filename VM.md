@@ -40,5 +40,12 @@ Now you will be prompted to enter your desired language and authentification inf
 
 Great now your server manager interface should open and you can begin setting it up!
 
-## VM offline
 ## File exchange
+
+Next we want to make sure our VM is set up for file exchange for downloading sysmon later. We click on devices the select drag an drop.
+
+![](/assets/fileexchangesetup.png)
+
+Then we go back to the file explorer on our machine and click on our local machine. The we select the new VM box necessary to be able to drag and drop files. Follow the instructions and you should be good to go!
+
+![](/assets/fileexchangesetup2.png)

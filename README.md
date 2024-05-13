@@ -4,14 +4,17 @@ This project was all about creating a windows server with a functional active di
 
 ## What has been done
 
-- Installing and setting up the Active Directory.
-- Installing and setting up the DNS.
-- Installing and setting up DHCP.
-- Installing and setting up IIS.
+- Setting up VM.
+- Installing Roles.
+- Setting up the Active Directory.
+- Setting up DHCP.
+- Setting up the DNS.
+- Setting up IIS.
 - Adding Alice (Admin account) and Bob to user groups.
+- set up a client machine with two users.
 - Install Sysmon and make sure it is working.
 
 ## What I still need to finish:
 
 - set up the authorization on my web app to only give access to Alice.
-- make a simulation of a suspicious activity on one of the user computers to see how sysmon identifies it etc
+- make a simulation of a suspicious activity on one of the user computers to see how sysmon identifies it etc.
